@@ -9,6 +9,7 @@ public class TestCase_001 extends Common_Keywords{
 		
 		openBrowser ("chrome");
 		closeBrowser ();
+		entertext("", "");
 		
 	}
 
