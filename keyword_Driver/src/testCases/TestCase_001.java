@@ -10,6 +10,8 @@ public class TestCase_001 extends Common_Keywords{
 		openBrowser ("chrome");
 		closeBrowser ();
 		entertext("", "");
+		entertext("new2", "value1");
+		entertext("new3", "value3");
 		
 	}
 
