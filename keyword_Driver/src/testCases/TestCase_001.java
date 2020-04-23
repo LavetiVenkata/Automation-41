@@ -12,6 +12,7 @@ public class TestCase_001 extends Common_Keywords{
 		entertext("", "");
 		entertext("new2", "value1");
 		entertext("new3", "value3");
+		System.out.println("ji");
 		
 	}
 
